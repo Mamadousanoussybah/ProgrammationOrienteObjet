@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\ClientBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\ClientBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\BuilderException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\BuilderException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Dragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\Dragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Licorne.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\Licorne.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\CreatureMagique.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\CreatureMagique.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\CreatureVolante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706E4B70-FE84-4216-857A-1E592CBB9305}|TP2\\TP2.vcxproj|solutionrelative:TP2\\CreatureVolante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Client.h",
+              "RelativeDocumentMoniker": "TP2\\Client.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Client.h",
+              "RelativeToolTip": "TP2\\Client.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:52:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Licorne.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Licorne.h",
+              "RelativeDocumentMoniker": "TP2\\Licorne.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Licorne.h",
+              "RelativeToolTip": "TP2\\Licorne.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:52:29.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dragon.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Dragon.h",
+              "RelativeDocumentMoniker": "TP2\\Dragon.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Dragon.h",
+              "RelativeToolTip": "TP2\\Dragon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:52:06.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatureMagique.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\CreatureMagique.h",
+              "RelativeDocumentMoniker": "TP2\\CreatureMagique.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\CreatureMagique.h",
+              "RelativeToolTip": "TP2\\CreatureMagique.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:51:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Main.cpp",
+              "RelativeDocumentMoniker": "TP2\\Main.cpp",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Main.cpp*",
+              "RelativeToolTip": "TP2\\Main.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T21:46:37.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuilderException.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\BuilderException.h",
+              "RelativeDocumentMoniker": "TP2\\BuilderException.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\BuilderException.h",
+              "RelativeToolTip": "TP2\\BuilderException.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:53:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatureVolante.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\CreatureVolante.h",
+              "RelativeDocumentMoniker": "TP2\\CreatureVolante.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\CreatureVolante.h",
+              "RelativeToolTip": "TP2\\CreatureVolante.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:50:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Animal.h",
+              "RelativeDocumentMoniker": "TP2\\Animal.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\Animal.h",
+              "RelativeToolTip": "TP2\\Animal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:50:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientBuilder.h",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\ClientBuilder.h",
+              "RelativeDocumentMoniker": "TP2\\ClientBuilder.h",
+              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\TP2\\TP2\\ClientBuilder.h",
+              "RelativeToolTip": "TP2\\ClientBuilder.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T21:54:03.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
